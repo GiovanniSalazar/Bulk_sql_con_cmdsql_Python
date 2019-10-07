@@ -1,0 +1,4 @@
+2019-10-06 21:10:32,411 : INFO : cmdsql : Ejecutando D:\PYTHON\gitHub\Nueva_carpeta\database\files\tables\empleados.sql
+2019-10-06 21:10:33,024 : INFO : cmdsql : Se ejecutó D:\PYTHON\gitHub\Nueva_carpeta\database\files\tables\empleados.sql
+2019-10-06 21:10:33,024 : INFO : cmdsql : Ejecutando D:\PYTHON\gitHub\Nueva_carpeta\database\files\insert\empleados.sql
+2019-10-06 21:10:33,824 : INFO : cmdsql : Se ejecutó D:\PYTHON\gitHub\Nueva_carpeta\database\files\insert\empleados.sql
