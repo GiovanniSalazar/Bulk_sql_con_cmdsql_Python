@@ -5,3 +5,7 @@
 * Windows 10
 * Python 3.7
 * SQL Server
+
+### Validar tener instalado en windows 10 :
+
+* sqlcmd
